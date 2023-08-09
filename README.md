@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Analytics and Digital DataScientist<br>  TATA CONSULTANCY SERVICES<br>🤝 NLP Data Specialist<br>🌱 Msc DataScience and Computational Intelligence<br>💬 Tell storIes about data using Tableau and PowerBI<br>
+🔭 Analytics and Digital DataScientist<br>  TATA CONSULTANCY SERVICES<br>🤝 NLP and Sales Analytics Data Specialist<br>🌱 Msc DataScience and Computational Intelligence<br>💬 Tell storIes about data using Tableau and PowerBI<br>
 
 
 ## 🌐 Socials:
