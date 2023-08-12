@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 Analytics and Digital DataScientist<br>  TATA CONSULTANCY SERVICES<br>🤝 NLP and Sales Analytics Data Specialist<br>🤝 Microsoft Azure & IABAC certified Data Scientist<br>🌱 Msc DataScience and Computational Intelligence<br>💬 Tell storIes about data using Tableau and PowerBI<br>💬 Microsoft Certified POWERBI Analyst <br>💬 Data Migration Analyst specialised in ETL <br>
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aswathy13asokan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/aswathy13asokan?trk=profile-badge">Aswathy Asokan</a></div>
+              
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswathy13asokan) 
