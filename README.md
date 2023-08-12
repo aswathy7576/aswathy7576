@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Analytics and Digital DataScientist<br>  TATA CONSULTANCY SERVICES<br>🤝 NLP and Sales Analytics Data Specialist<br>🤝 Microsoft Azure certified Data Scientist<br>🌱 Msc DataScience and Computational Intelligence<br>💬 Tell storIes about data using Tableau and PowerBI<br>
+🔭 Analytics and Digital DataScientist<br>  TATA CONSULTANCY SERVICES<br>🤝 NLP and Sales Analytics Data Specialist<br>🤝 Microsoft Azure & IABAC certified Data Scientist<br>🌱 Msc DataScience and Computational Intelligence<br>💬 Tell storIes about data using Tableau and PowerBI<br>
+<br>💬 Microsoft Certified POWERBI Analyst<br> <br>💬 Data Migration Analyst specialised in ETL <br>
 
 
 ## 🌐 Socials:
